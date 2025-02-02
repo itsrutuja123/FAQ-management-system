@@ -25,6 +25,7 @@ npm install  # Install dependencies
 
 3️⃣ Configure Environment Variables
 Create a .env file in the backend/ folder and add the following:
+
 MONGO_URI=mongodb+srv://yourusername:yourpassword@yourcluster.mongodb.net/faq
 
 REDIS_HOST=your-redis-host
