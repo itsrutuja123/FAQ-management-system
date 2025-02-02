@@ -15,11 +15,13 @@ Redis – Used for caching to improve performance.
 
 🔧 Installation Guide
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/faq-management.git
+git clone https://github.com/itsrutuja123/FAQ-management-system.git
 cd faq-management
+
 2️⃣ Setup the Backend
 cd backend
 npm install  # Install dependencies
+
 3️⃣ Configure Environment Variables
 Create a .env file in the backend/ folder and add the following:
 MONGO_URI=mongodb+srv://yourusername:yourpassword@yourcluster.mongodb.net/faq
@@ -27,6 +29,7 @@ REDIS_HOST=your-redis-host
 REDIS_PORT=your-redis-port
 REDIS_PASSWORD=your-redis-password
 PORT=8000
+
 4️⃣ Start the Backend Server
 npm start  # Runs the backend server
 The API will be available at http://localhost:8000
