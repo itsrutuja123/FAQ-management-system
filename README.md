@@ -14,6 +14,7 @@ MongoDB & Mongoose – NoSQL database for storing FAQs.
 Redis – Used for caching to improve performance.
 
 🔧 Installation Guide
+
 1️⃣ Clone the Repository
 git clone https://github.com/itsrutuja123/FAQ-management-system.git
 cd faq-management
